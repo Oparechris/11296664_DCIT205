@@ -15,7 +15,7 @@ To set up the project locally, follow these steps:
 
 ## Student Details
 Name: OPARE K. CHRISTOPHER
-ID: 11296664
+ID:: 11296664
 
 ## Screenshots of Pages
 "C:\Users\HP\OneDrive\Documents\Pictures\Screenshots\Screenshot 2023-11-28 205258.png"
